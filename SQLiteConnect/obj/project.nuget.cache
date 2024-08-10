@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9u7Xg+KvIio=",
+  "success": true,
+  "projectFilePath": "D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLiteConnect\\SQLiteConnect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hiend\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\hiend\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
