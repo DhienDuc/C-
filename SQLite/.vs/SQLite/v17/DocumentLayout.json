@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4129ECE-D503-43FE-AB9B-862585542DA7}|SQLite.csproj|D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4129ECE-D503-43FE-AB9B-862585542DA7}|SQLite.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4129ECE-D503-43FE-AB9B-862585542DA7}|SQLite.csproj|D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4129ECE-D503-43FE-AB9B-862585542DA7}|SQLite.csproj|solutionrelative:personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4129ECE-D503-43FE-AB9B-862585542DA7}|SQLite.csproj|d:\\hienduc\\lap trinh\\visual studio\\c#\\c-sharp\\sqlite\\acesssqlitedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4129ECE-D503-43FE-AB9B-862585542DA7}|SQLite.csproj|solutionrelative:acesssqlitedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4129ECE-D503-43FE-AB9B-862585542DA7}|SQLite.csproj|D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B4129ECE-D503-43FE-AB9B-862585542DA7}|SQLite.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4129ECE-D503-43FE-AB9B-862585542DA7}|SQLite.csproj|D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4129ECE-D503-43FE-AB9B-862585542DA7}|SQLite.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4129ECE-D503-43FE-AB9B-862585542DA7}|SQLite.csproj|D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4129ECE-D503-43FE-AB9B-862585542DA7}|SQLite.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T09:42:04.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:01:34.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-16T08:47:15.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcessSQLiteDB.cs",
+              "DocumentMoniker": "D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\AcessSQLiteDB.cs",
+              "RelativeDocumentMoniker": "AcessSQLiteDB.cs",
+              "ToolTip": "D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\AcessSQLiteDB.cs",
+              "RelativeToolTip": "AcessSQLiteDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:22:03.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\PersonModel.cs",
+              "RelativeDocumentMoniker": "PersonModel.cs",
+              "ToolTip": "D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\PersonModel.cs",
+              "RelativeToolTip": "PersonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:05:47.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\HienDuc\\Lap trinh\\Visual Studio\\C#\\C-Sharp\\SQLite\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T05:53:25.815Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

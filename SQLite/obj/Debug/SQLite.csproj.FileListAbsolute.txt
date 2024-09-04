@@ -1,0 +1,16 @@
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\bin\Debug\persiondb.db
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\bin\Debug\SQLite.exe.config
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\bin\Debug\SQLite.exe
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\bin\Debug\SQLite.pdb
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\bin\Debug\Dapper.dll
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\bin\Debug\System.Data.SQLite.dll
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\bin\Debug\Dapper.xml
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\bin\Debug\System.Data.SQLite.xml
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\obj\Debug\SQLite.csproj.AssemblyReference.cache
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\obj\Debug\SQLite.Form1.resources
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\obj\Debug\SQLite.Properties.Resources.resources
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\obj\Debug\SQLite.csproj.GenerateResource.cache
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\obj\Debug\SQLite.csproj.CoreCompileInputs.cache
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\obj\Debug\SQLite.csproj.Up2Date
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\obj\Debug\SQLite.exe
+D:\HienDuc\Lap trinh\Visual Studio\C#\C-Sharp\SQLite\obj\Debug\SQLite.pdb
